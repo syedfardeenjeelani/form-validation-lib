@@ -168,6 +168,3 @@ Contributions are welcome! Please open an issue or submit a pull request on the 
 ## Contact
 
 For any questions or feedback, you can reach me at [Syed Fardeen Jeelani](https://github.com/syedfardeenjeelani).
-```
-
-You can copy and paste this content directly into your `README.md` file for your `form-validation-lib` project.
