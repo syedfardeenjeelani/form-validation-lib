@@ -1,0 +1,29 @@
+{
+  "name": "form-validation-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Syed Fardeen Jeelani",
+  "license": "MIT",
+  "description": "A simple and customizable library for handling form validation and error messages in your web application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedfardeenjeelani/form-validation-lib.git"
+  },
+  "keywords": [
+    "form-validation",
+    "error-handling",
+    "web-development",
+    "javascript",
+    "validation"
+  ],
+  "bugs": {
+    "url": "https://github.com/syedfardeenjeelani/form-validation-lib/issues"
+  },
+  "homepage": "https://github.com/syedfardeenjeelani/form-validation-lib#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
